@@ -1,4 +1,9 @@
-### Hi there, I'm Rafaela! 👋
+### Oie, eu sou a Rafaela! 👋
+- 😄 Pronomes: ela/dela
+- 🔭 Atualmente sou gerente de suporte
+- 🌱 Gosto bastante de estudar sobre front-end
+- 📫 Entre em contato pelo linkedin
+- ⚡ Fatos curiosos: entusiasta em esportes outdoor
 
 ##
 
@@ -10,20 +15,9 @@
   
 ##
   
-<div> 
-  
+<div align="center"> 
+  <a href="https://www.behance.net/rafaelacosta2" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
+  <a href="https://www.instagram.com/rafad.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaela-duque/" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
 </div>
-<!--
-**Rafadcosta/Rafadcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
