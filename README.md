@@ -2,7 +2,7 @@
 - 😄 Pronomes: ela/dela
 - 🔭 Atualmente sou gerente de suporte
 - 🌱 Gosto bastante de estudar sobre front-end
-- 🤖 Faço sites por aí (frelas, aceitamos c: )
+- 🤖 Faço sites por aí (frelas, aceitamos 🤭 )
 - 📫 Entre em contato pelo linkedin
 - ⚡ Fatos curiosos: entusiasta em esportes outdoor e artes marciais
 
@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/Rafadcosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafadcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafadcosta&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafadcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafadcosta&layout=compact&langs_count=7&theme=dracula)"/>
 </div>
   
 ##
