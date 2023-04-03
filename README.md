@@ -2,8 +2,9 @@
 - 😄 Pronomes: ela/dela
 - 🔭 Atualmente sou gerente de suporte
 - 🌱 Gosto bastante de estudar sobre front-end
+- 🤖 Faço sites por aí (frelas, aceitamos c: )
 - 📫 Entre em contato pelo linkedin
-- ⚡ Fatos curiosos: entusiasta em esportes outdoor
+- ⚡ Fatos curiosos: entusiasta em esportes outdoor e artes marciais
 
 ##
 
