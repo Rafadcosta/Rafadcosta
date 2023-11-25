@@ -1,6 +1,6 @@
 ### Oie, eu sou a Rafaela! 👋
 - 😄 Pronomes: ela/dela
-- 🔭 Atualmente sou gerente de suporte
+- 🔭 Atualmente sou diretora de suporte técnico e consultora na área de atendimento ao cliente
 - 🌱 Gosto bastante de estudar sobre front-end
 - 🤖 Faço sites por aí (frelas, aceitamos 🤭 )
 - 📫 Entre em contato pelo linkedin
@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/Rafadcosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafadcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafadcosta&layout=compact&langs_count=7&theme=tokyonight)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafadcosta&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafadcosta&layout=compact&langs_count=7&theme=synthwave)"/>
 </div>
   
 ##
