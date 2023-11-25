@@ -15,6 +15,10 @@
 </div>
   
 ##
+
+[![My Skills](https://skillicons.dev/icons?i=discord,figma,git,github,gitlab,html,css,js,laravel,linux,php,postgres,react,vscode,xd&theme=light)](https://skillicons.dev)
+
+##
   
 <div align="center"> 
   <a href="https://www.behance.net/rafaelacosta2" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
