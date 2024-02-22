@@ -2,7 +2,7 @@
 - 😄 Pronomes: ela/dela
 - 🔭 Atualmente sou diretora de suporte técnico e consultora na área de atendimento ao cliente
 - 🌱 Gosto bastante de estudar sobre front-end
-- 🤖 Faço sites por aí (frelas, aceitamos 🤭 )
+- 🤖 Faço sites por aí (for fun)
 - 📫 Entre em contato pelo linkedin
 - ⚡ Fatos curiosos: entusiasta em esportes outdoor e artes marciais
 
