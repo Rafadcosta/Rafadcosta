@@ -1,8 +1,8 @@
 ### Oie, eu sou a Rafaela! 👋
 - 😄 Pronomes: ela/dela
-- 🔭 Atualmente sou diretora de suporte técnico e consultora na área de atendimento ao cliente
-- 🌱 Gosto bastante de estudar sobre front-end
-- 🤖 Faço sites por aí (for fun)
+- 🔭 Gestão de Projetos | Analista de Requisitos | Analista de Testes | Gestão de Equipes
+- 🌱 Motivada por resultados
+- 🤖 Faço sites e consultorias
 - 📫 Entre em contato pelo linkedin
 - ⚡ Fatos curiosos: entusiasta em esportes outdoor e artes marciais
 
