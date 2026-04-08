@@ -16,7 +16,7 @@
   
 ##
 
-[![My Skills](https://skillicons.dev/icons?i=discord,figma,git,github,gitlab,html,css,js,laravel,linux,php,postgres,react,vscode,xd,jira&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,figma,git,github,gitlab,html,css,js,laravel,linux,php,postgres,react,vscode,xd&theme=light)](https://skillicons.dev)
 
 ##
   
