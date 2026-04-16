@@ -6,6 +6,11 @@
 - 🔍 Extremamente curiosa e interessada pelo mundinho de UX/UI
 - 📫 Entre em contato pelo linkedin
 - ⚡ Fatos curiosos: entusiasta em esportes outdoor e artes marciais
+
+## 📈 Meu Foco Atual
+- 📦 Escrita de User Stories e gestão de backlog orientada a valor
+- 🚀 Aplicação de metodologias ágeis no acompanhamento de squads (Scrum/Kanban)
+- 🎨 Evolução contínua em melhorias de UI/UX para produtos digitais
   
 ##
 
