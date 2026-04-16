@@ -1,4 +1,4 @@
-### Oie, eu sou a Rafaela! 👋
+## Oie, eu sou a Rafaela! 👋
 - 😄 Pronomes: ela/dela
 - 🔭 Gestão de Projetos | Analista de Requisitos | Analista de Testes | Gestão de Equipes | Produtos Digitais
 - 🌱 Motivada por resultados
@@ -7,7 +7,7 @@
 - 📫 Entre em contato pelo linkedin
 - ⚡ Fatos curiosos: entusiasta em esportes outdoor e artes marciais
 
-## 📈 Meu Foco Atual
+### 📈 Meu Foco Atual
 - 📦 Escrita de User Stories e gestão de backlog orientada a valor
 - 🚀 Aplicação de metodologias ágeis no acompanhamento de squads (Scrum/Kanban)
 - 🎨 Evolução contínua em melhorias de UI/UX para produtos digitais
